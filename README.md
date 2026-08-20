@@ -1,2 +1,17 @@
-# farm-financial-manager-dist
-nongjangi app distribution (public) - APK releases + update manifest
+# 농장이 (배포)
+
+농업회사법인 재무관리 앱 「농장이」 안드로이드 APK 배포 저장소입니다. (소스코드는 비공개 저장소에서 관리)
+
+## 최신 버전 내려받기
+- **[최신 APK 다운로드](https://github.com/Eunbangwool/farm-financial-manager-dist/releases/latest)** → Assets의 `nongjangi-*.apk`
+
+## 설치 방법
+1. APK를 안드로이드 폰에서 열기
+2. "출처를 알 수 없는 앱 설치" 허용 → 설치
+3. Google 계정으로 로그인
+4. 회사 코드로 **가입 요청**(관리자 승인) 또는 **이메일 초대** 수락
+
+## 업데이트
+앱이 실행 시 최신 버전을 자동 확인합니다. 새 버전이 있으면 안내가 뜨고, 눌러서 내려받아 설치하면 됩니다.
+
+`version.json`이 업데이트 매니페스트입니다(앱이 이 파일을 읽어 버전 비교).
