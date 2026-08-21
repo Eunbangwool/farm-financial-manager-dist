@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "apkUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/v0.1.1/nongjangi-v0.1.1.apk",
-  "notes": "인앱 업데이트 확인 기능 추가."
+  "versionCode": 3,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/v0.2.0/nongjangi-v0.2.0.apk",
+  "notes": "네트워크 프린터 인쇄(직접+외부) 추가, 웹 Google 로그인, 로젠·카톡봇 개선."
 }
