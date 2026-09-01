@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.4.1",
+  "versionCode": 7,
+  "versionName": "0.4.2",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "인앱 업데이트 자동 설치 개선 — 다운로드 완료 시 설치 화면 자동 표시"
+  "notes": "건조벼현황 연도 추가 버튼 + 배치도 자동 전체화면"
 }
