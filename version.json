@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/v0.4.0/nongjangi-v0.4.0.apk",
-  "notes": "건조벼 배출→출하유형(도정/매상/벼로/농가/종자) 처분 파이프라인 + 도정출하 확인 연동 + 농가별 정산 요약(연도별)"
+  "versionCode": 6,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/v0.4.1/nongjangi-v0.4.1.apk",
+  "notes": "인앱 업데이트 자동 설치 개선 — 다운로드 완료 시 설치 화면 자동 표시"
 }
