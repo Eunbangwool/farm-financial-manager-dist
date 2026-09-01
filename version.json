@@ -1,6 +1,6 @@
 {
   "versionCode": 6,
   "versionName": "0.4.1",
-  "apkUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/v0.4.1/nongjangi-v0.4.1.apk",
+  "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
   "notes": "인앱 업데이트 자동 설치 개선 — 다운로드 완료 시 설치 화면 자동 표시"
 }
