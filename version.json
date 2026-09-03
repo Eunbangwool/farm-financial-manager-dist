@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.4.5",
+  "versionCode": 11,
+  "versionName": "0.4.6",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "탭 통합·정리 — 정산+처분 통합, 일정→달력, 건조배출→건조벼현황, 카톡→설정"
+  "notes": "상단 일정 달력 기본 접힘 — 오늘 업무만, 펼치면 달력"
 }
