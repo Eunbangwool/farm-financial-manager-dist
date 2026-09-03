@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.4.3",
+  "versionCode": 9,
+  "versionName": "0.4.4",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "건조벼 목록에서 배출(매상·벼로·농가·종자출하) 추가 + 도정출하 확인 병목 수정"
+  "notes": "처분 내역 관리 화면 추가 — 배출 편집·삭제(재고·거래 복원)"
 }
