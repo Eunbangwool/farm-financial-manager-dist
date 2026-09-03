@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.4.4",
+  "versionCode": 10,
+  "versionName": "0.4.5",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "처분 내역 관리 화면 추가 — 배출 편집·삭제(재고·거래 복원)"
+  "notes": "탭 통합·정리 — 정산+처분 통합, 일정→달력, 건조배출→건조벼현황, 카톡→설정"
 }
