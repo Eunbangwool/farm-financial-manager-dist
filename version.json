@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.4.2",
+  "versionCode": 8,
+  "versionName": "0.4.3",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "건조벼현황 연도 추가 버튼 + 배치도 자동 전체화면"
+  "notes": "건조벼 목록에서 배출(매상·벼로·농가·종자출하) 추가 + 도정출하 확인 병목 수정"
 }
