@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.4.7",
+  "versionCode": 13,
+  "versionName": "0.4.8",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "연차 관리 멤버별 할당 방식 — 멤버 로스터에 연차 부여(개별·전원 일괄)"
+  "notes": "농가별 정산서 인쇄 — 정산 화면에서 농가별 정산서 출력 · 농가 검색 추가"
 }
