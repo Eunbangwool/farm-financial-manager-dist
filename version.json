@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.4.6",
+  "versionCode": 12,
+  "versionName": "0.4.7",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "상단 일정 달력 기본 접힘 — 오늘 업무만, 펼치면 달력"
+  "notes": "연차 관리 멤버별 할당 방식 — 멤버 로스터에 연차 부여(개별·전원 일괄)"
 }
