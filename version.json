@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.6.2",
+  "versionCode": 22,
+  "versionName": "0.6.3",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "상단바에 예정(미래) 업무도 표시 — 지연·오늘·예정 구분 + 완료 버튼"
+  "notes": "카메라 라이브러리 apollo10pro 전용 분리 — 일반 빌드 16KB 경고 제거"
 }
