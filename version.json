@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.5.3",
+  "versionCode": 19,
+  "versionName": "0.6.0",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "모든 목록 탭에 검색 추가 · 웹 기능 전환(현황판·도정 배출·차용 등록)"
+  "notes": "도정 투입·배출 모드에 카메라 분할(태블릿 직결 카메라 로컬 프리뷰)"
 }
