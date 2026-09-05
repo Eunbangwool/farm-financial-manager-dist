@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.6.0",
+  "versionCode": 20,
+  "versionName": "0.6.1",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 투입·배출 모드에 카메라 분할(태블릿 직결 카메라 로컬 프리뷰)"
+  "notes": "일정 미완료 업무 상단 상시표시+완료 버튼 · 카톡 분석 날짜 오류 수정"
 }
