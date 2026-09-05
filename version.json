@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.4.9",
+  "versionCode": 15,
+  "versionName": "0.5.0",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정장부·정산 구조 개편 — 도정장부는 도정 입력·목록, 정산에 '도정 정산' 서브탭(합계·영수증) 통합"
+  "notes": "도정 정산 입력을 엑셀 영수증 양식 그대로 — 삯·보관량·합계 실시간 계산"
 }
