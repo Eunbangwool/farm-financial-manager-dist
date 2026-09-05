@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.6.1",
+  "versionCode": 21,
+  "versionName": "0.6.2",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "일정 미완료 업무 상단 상시표시+완료 버튼 · 카톡 분석 날짜 오류 수정"
+  "notes": "상단바에 예정(미래) 업무도 표시 — 지연·오늘·예정 구분 + 완료 버튼"
 }
