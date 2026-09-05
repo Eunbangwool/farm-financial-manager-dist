@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "0.5.0",
+  "versionCode": 16,
+  "versionName": "0.5.1",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 입력을 엑셀 영수증 양식 그대로 — 삯·보관량·합계 실시간 계산"
+  "notes": "차용 서명 박스 안에서만·용량 절감(JPEG) · 차용장부 차용추가를 차용등록과 동일 폼으로 통일"
 }
