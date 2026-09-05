@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.5.2",
+  "versionCode": 18,
+  "versionName": "0.5.3",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 입력 모드 선택 — 수동(영수증 양식) / 반자동 토글"
+  "notes": "모든 목록 탭에 검색 추가 · 웹 기능 전환(현황판·도정 배출·차용 등록)"
 }
