@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.6.3",
+  "versionCode": 23,
+  "versionName": "0.6.4",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "카메라 라이브러리 apollo10pro 전용 분리 — 일반 빌드 16KB 경고 제거"
+  "notes": "도정 정산 무게 단위 한자(叺)가 깨지던 문제 수정 — '가마'로 표시"
 }
