@@ -2,5 +2,5 @@
   "versionCode": 23,
   "versionName": "0.6.4",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 무게 단위 한자(叺)가 깨지던 문제 수정 — '가마'로 표시"
+  "notes": "도정 정산 무게 단위 '가마' 표시 수정(한자 깨짐 해결)"
 }
