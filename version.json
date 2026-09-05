@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.6.5",
+  "versionCode": 25,
+  "versionName": "0.6.6",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "건조벼 현황요약·차용 총액 접기, 건조벼 기본연도를 데이터 있는 최신 연도로"
+  "notes": "도정 배출 총량→부분배출→잔량 추적, 건조벼현황 목록 스크롤 수정"
 }
