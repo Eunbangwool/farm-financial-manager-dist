@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.7.4",
+  "versionCode": 34,
+  "versionName": "0.7.5",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "건조장 편집기 상단 중복 표시 제거"
+  "notes": "건조장 상태 표시 제거(단순화)"
 }
