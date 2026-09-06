@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "0.7.0",
+  "versionCode": 30,
+  "versionName": "0.7.1",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "건조벼현황 물벼→건조장 장부(건조기 10대, 배출 백/잔량, 윤성호 전용)"
+  "notes": "건조장 UI 목업 디자인 반영(동그라미 백·총량 계산식·인라인 상세)"
 }
