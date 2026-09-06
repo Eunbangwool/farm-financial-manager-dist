@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "0.6.6",
+  "versionCode": 26,
+  "versionName": "0.6.7",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 배출 총량→부분배출→잔량 추적, 건조벼현황 목록 스크롤 수정"
+  "notes": "업무 달력에서 등록된 일정 수정(날짜 변경 포함)·삭제"
 }
