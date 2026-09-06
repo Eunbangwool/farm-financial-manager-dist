@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.6.8",
+  "versionCode": 28,
+  "versionName": "0.6.9",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 화면 좌우분할(미정산 차용)·매일 아침 8시 업무 알림"
+  "notes": "도정 정산 탭에 배출완료·정산대기 목록 먼저 노출, 탭하면 정산"
 }
