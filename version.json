@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "0.7.5",
+  "versionCode": 35,
+  "versionName": "0.7.6",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "건조장 상태 표시 제거(단순화)"
+  "notes": "도정 정산 우측 상하분할(미정산 차용 + 도정 조회)"
 }
