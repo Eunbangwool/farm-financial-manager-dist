@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "0.7.1",
+  "versionCode": 31,
+  "versionName": "0.7.2",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "건조장 UI 목업 디자인 반영(동그라미 백·총량 계산식·인라인 상세)"
+  "notes": "건조장 편집기 중복 건조기 번호 칩 제거"
 }
