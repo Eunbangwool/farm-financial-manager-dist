@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "0.7.6",
+  "versionCode": 36,
+  "versionName": "0.7.7",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 우측 상하분할(미정산 차용 + 도정 조회)"
+  "notes": "영수증 도장을 상월농산 인감 이미지로 교체"
 }
