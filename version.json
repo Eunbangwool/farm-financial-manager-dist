@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "0.6.7",
+  "versionCode": 27,
+  "versionName": "0.6.8",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "업무 달력에서 등록된 일정 수정(날짜 변경 포함)·삭제"
+  "notes": "도정 정산 화면 좌우분할(미정산 차용)·매일 아침 8시 업무 알림"
 }
