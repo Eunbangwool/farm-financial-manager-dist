@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "0.6.9",
+  "versionCode": 29,
+  "versionName": "0.7.0",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 탭에 배출완료·정산대기 목록 먼저 노출, 탭하면 정산"
+  "notes": "건조벼현황 물벼→건조장 장부(건조기 10대, 배출 백/잔량, 윤성호 전용)"
 }
