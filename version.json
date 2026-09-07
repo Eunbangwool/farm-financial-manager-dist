@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "0.7.8",
+  "versionCode": 38,
+  "versionName": "0.7.9",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 입력지 화면 도장을 인감 이미지로 교체"
+  "notes": "건조벼현황 현황 요약 기본 접힘"
 }
