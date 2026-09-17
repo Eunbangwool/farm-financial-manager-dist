@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "0.7.9",
+  "versionCode": 39,
+  "versionName": "0.8.0",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "건조벼현황 현황 요약 기본 접힘"
+  "notes": "UI 상용화 개선: 저장/삭제 실패·성공 알림, 삭제 전 확인, 로딩 표시, 키보드·글꼴 개선, 로그인 화면 개편"
 }
