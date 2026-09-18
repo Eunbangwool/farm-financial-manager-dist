@@ -1,12 +1,12 @@
 {
-  "versionCode": 53,
-  "versionName": "0.8.14",
+  "versionCode": 54,
+  "versionName": "0.8.15",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정장부 클릭 크래시 수정 + 도정장부/도정정산 화면을 웹과 동일하게 통일",
+  "notes": "웹과 UI 통일 2차 — 고객관리 탭 정렬, 거래명세표에 기간 명세표 추가, 택배 운송장/고객관리 서브탭",
   "apollo": {
-    "versionCode": 10053,
-    "versionName": "0.8.14-apollo",
+    "versionCode": 10054,
+    "versionName": "0.8.15-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "도정장부 클릭 크래시 수정 + 도정장부/도정정산 화면을 웹과 동일하게 통일"
+    "notes": "웹과 UI 통일 2차 — 고객관리 탭 정렬, 거래명세표에 기간 명세표 추가, 택배 운송장/고객관리 서브탭"
   }
 }
