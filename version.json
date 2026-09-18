@@ -1,12 +1,12 @@
 {
-  "versionCode": 42,
-  "versionName": "0.8.3",
+  "versionCode": 43,
+  "versionName": "0.8.4",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "apollo10pro OTA 자동 업데이트 지원 + 카메라 분할 개선(반대편 검게 됨 해결·닫기 버튼·배출 50:50)",
+  "notes": "카메라 전체화면 모드 추가",
   "apollo": {
-    "versionCode": 10042,
-    "versionName": "0.8.3-apollo",
+    "versionCode": 10043,
+    "versionName": "0.8.4-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "apollo10pro OTA 자동 업데이트 지원 + 카메라 분할 개선(반대편 검게 됨 해결·닫기 버튼·배출 50:50)"
+    "notes": "카메라 전체화면 모드 추가"
   }
 }
