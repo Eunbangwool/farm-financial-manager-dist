@@ -1,12 +1,12 @@
 {
-  "versionCode": 44,
-  "versionName": "0.8.5",
+  "versionCode": 45,
+  "versionName": "0.8.6",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "카메라 전체화면 모드 + 컨트롤 바 상태바 겹침 수정",
+  "notes": "도정배출 탱크 기반 워크플로(농가 도정량 입력 → 탱크 이동 → 탱크 배출)",
   "apollo": {
-    "versionCode": 10044,
-    "versionName": "0.8.5-apollo",
+    "versionCode": 10045,
+    "versionName": "0.8.6-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "카메라 전체화면 모드 + 컨트롤 바 상태바 겹침 수정"
+    "notes": "도정배출 탱크 기반 워크플로(농가 도정량 입력 → 탱크 이동 → 탱크 배출)"
   }
 }
