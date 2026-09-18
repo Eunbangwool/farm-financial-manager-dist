@@ -1,12 +1,12 @@
 {
-  "versionCode": 45,
-  "versionName": "0.8.6",
+  "versionCode": 46,
+  "versionName": "0.8.7",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정배출 탱크 기반 워크플로(농가 도정량 입력 → 탱크 이동 → 탱크 배출)",
+  "notes": "도정배출 저장탱크 이름(일반·삼광·미호·찹쌀1·찹쌀2) + 탱크 워크플로",
   "apollo": {
-    "versionCode": 10045,
-    "versionName": "0.8.6-apollo",
+    "versionCode": 10046,
+    "versionName": "0.8.7-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "도정배출 탱크 기반 워크플로(농가 도정량 입력 → 탱크 이동 → 탱크 배출)"
+    "notes": "도정배출 저장탱크 이름(일반·삼광·미호·찹쌀1·찹쌀2) + 탱크 워크플로"
   }
 }
