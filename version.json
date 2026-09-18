@@ -1,12 +1,12 @@
 {
-  "versionCode": 43,
-  "versionName": "0.8.4",
+  "versionCode": 44,
+  "versionName": "0.8.5",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "카메라 전체화면 모드 추가",
+  "notes": "카메라 전체화면 모드 + 컨트롤 바 상태바 겹침 수정",
   "apollo": {
-    "versionCode": 10043,
-    "versionName": "0.8.4-apollo",
+    "versionCode": 10044,
+    "versionName": "0.8.5-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "카메라 전체화면 모드 추가"
+    "notes": "카메라 전체화면 모드 + 컨트롤 바 상태바 겹침 수정"
   }
 }
