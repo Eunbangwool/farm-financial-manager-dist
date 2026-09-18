@@ -1,12 +1,12 @@
 {
-  "versionCode": 51,
-  "versionName": "0.8.12",
+  "versionCode": 52,
+  "versionName": "0.8.13",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정출하 확인 앱 키오스크 전용화, 도정장부/도정정산 분리, 거래명세서·도정영수증 인쇄 개선, 업무완료 카톡 알림",
+  "notes": "apollo 키오스크 무인 자동 업데이트(device-owner silent install) — 이 버전부터 apollo 태블릿도 사용자 조작 없이 OTA 자동 설치",
   "apollo": {
-    "versionCode": 10051,
-    "versionName": "0.8.12-apollo",
+    "versionCode": 10052,
+    "versionName": "0.8.13-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "도정출하 확인 앱 키오스크 전용화, 도정장부/도정정산 분리, 거래명세서·도정영수증 인쇄 개선, 업무완료 카톡 알림"
+    "notes": "apollo 키오스크 무인 자동 업데이트(device-owner silent install) — 이 버전부터 apollo 태블릿도 사용자 조작 없이 OTA 자동 설치"
   }
 }
