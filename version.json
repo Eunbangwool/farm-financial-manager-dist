@@ -1,12 +1,12 @@
 {
-  "versionCode": 49,
-  "versionName": "0.8.10",
+  "versionCode": 50,
+  "versionName": "0.8.11",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "일정 탭 미완료·예정 업무 스크롤 목록 기본 + 업무탭 달력 제거",
+  "notes": "일정 목록 미완료·예정 업무 UI(원탭 완료) + 첫 화면 일정 탭",
   "apollo": {
-    "versionCode": 10049,
-    "versionName": "0.8.10-apollo",
+    "versionCode": 10050,
+    "versionName": "0.8.11-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "일정 탭 미완료·예정 업무 스크롤 목록 기본 + 업무탭 달력 제거"
+    "notes": "일정 목록 미완료·예정 업무 UI(원탭 완료) + 첫 화면 일정 탭"
   }
 }
