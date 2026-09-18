@@ -1,12 +1,12 @@
 {
-  "versionCode": 47,
-  "versionName": "0.8.8",
+  "versionCode": 48,
+  "versionName": "0.8.9",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정배출 탱크 화면 레이아웃 조정(하단 잘림 해결)",
+  "notes": "하단 탭 개편: 일정 탭 추가, 보고서는 설정으로 이동(일정·장부·업무·설정)",
   "apollo": {
-    "versionCode": 10047,
-    "versionName": "0.8.8-apollo",
+    "versionCode": 10048,
+    "versionName": "0.8.9-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "도정배출 탱크 화면 레이아웃 조정(하단 잘림 해결)"
+    "notes": "하단 탭 개편: 일정 탭 추가, 보고서는 설정으로 이동(일정·장부·업무·설정)"
   }
 }
