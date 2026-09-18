@@ -1,12 +1,12 @@
 {
-  "versionCode": 50,
-  "versionName": "0.8.11",
+  "versionCode": 51,
+  "versionName": "0.8.12",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "일정 목록 미완료·예정 업무 UI(원탭 완료) + 첫 화면 일정 탭",
+  "notes": "도정출하 확인 앱 키오스크 전용화, 도정장부/도정정산 분리, 거래명세서·도정영수증 인쇄 개선, 업무완료 카톡 알림",
   "apollo": {
-    "versionCode": 10050,
-    "versionName": "0.8.11-apollo",
+    "versionCode": 10051,
+    "versionName": "0.8.12-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "일정 목록 미완료·예정 업무 UI(원탭 완료) + 첫 화면 일정 탭"
+    "notes": "도정출하 확인 앱 키오스크 전용화, 도정장부/도정정산 분리, 거래명세서·도정영수증 인쇄 개선, 업무완료 카톡 알림"
   }
 }
