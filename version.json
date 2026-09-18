@@ -1,12 +1,12 @@
 {
-  "versionCode": 46,
-  "versionName": "0.8.7",
+  "versionCode": 47,
+  "versionName": "0.8.8",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정배출 저장탱크 이름(일반·삼광·미호·찹쌀1·찹쌀2) + 탱크 워크플로",
+  "notes": "도정배출 탱크 화면 레이아웃 조정(하단 잘림 해결)",
   "apollo": {
-    "versionCode": 10046,
-    "versionName": "0.8.7-apollo",
+    "versionCode": 10047,
+    "versionName": "0.8.8-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "도정배출 저장탱크 이름(일반·삼광·미호·찹쌀1·찹쌀2) + 탱크 워크플로"
+    "notes": "도정배출 탱크 화면 레이아웃 조정(하단 잘림 해결)"
   }
 }
