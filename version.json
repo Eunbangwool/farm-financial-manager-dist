@@ -1,12 +1,12 @@
 {
-  "versionCode": 61,
-  "versionName": "0.8.22",
+  "versionCode": 62,
+  "versionName": "0.8.23",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "보고서 6개 탭 신설(경영요약·매출·도정·건조출하·농가채권·손익계산서) + 메신저 이미지 첨부 + 도정정산·영수증 개선",
+  "notes": "보고서 기간 비교 수정(진행 중 기간은 오늘까지·전기도 같은 경과 구간). 0.8.22의 보고서 6개 탭 + 메신저 이미지 첨부 포함",
   "apollo": {
-    "versionCode": 10061,
-    "versionName": "0.8.22-apollo",
+    "versionCode": 10062,
+    "versionName": "0.8.23-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "보고서 6개 탭 신설(경영요약·매출·도정·건조출하·농가채권·손익계산서) + 메신저 이미지 첨부 + 도정정산·영수증 개선"
+    "notes": "보고서 기간 비교 수정(진행 중 기간은 오늘까지·전기도 같은 경과 구간). 0.8.22의 보고서 6개 탭 + 메신저 이미지 첨부 포함"
   }
 }
