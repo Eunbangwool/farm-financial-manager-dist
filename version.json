@@ -1,12 +1,12 @@
 {
-  "versionCode": 57,
-  "versionName": "0.8.18",
+  "versionCode": 58,
+  "versionName": "0.8.19",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "기계관리에 매뉴얼 백과 추가 — 농기계 트러블슈팅·정기점검·급유·퓨즈·제원·부품(쿠보타 이앙기/트랙터, 콤바인 등)",
+  "notes": "차용 서명 표시(웹)·서명 잘림(앱)·도정정산 수동추가·현물차용 포 수량",
   "apollo": {
-    "versionCode": 10057,
-    "versionName": "0.8.18-apollo",
+    "versionCode": 10058,
+    "versionName": "0.8.19-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "기계관리에 매뉴얼 백과 추가 — 농기계 트러블슈팅·정기점검·급유·퓨즈·제원·부품(쿠보타 이앙기/트랙터, 콤바인 등)"
+    "notes": "차용 서명 표시(웹)·서명 잘림(앱)·도정정산 수동추가·현물차용 포 수량"
   }
 }
