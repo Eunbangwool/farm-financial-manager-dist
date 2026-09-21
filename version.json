@@ -1,12 +1,12 @@
 {
-  "versionCode": 60,
-  "versionName": "0.8.21",
-  "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "UI 상용화 개편(C안) — 공용 장부표·세그먼트 탭·상태 배지·고정폭 금액, 화면 밀도 축소. 성능 — 앱 장부 저장이 서버 응답을 기다리지 않도록 개선.",
+  "versionCode": 61,
+  "versionName": "0.8.22",
+  "apkUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/v0.8.22/nongjangi-v0.8.22.apk",
+  "notes": "보고서 6개 탭 신설(경영요약·매출·도정·건조출하·농가채권·손익계산서) + 메신저 이미지 첨부 + 도정정산·영수증 개선",
   "apollo": {
-    "versionCode": 10060,
-    "versionName": "0.8.21-apollo",
-    "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "UI 상용화 개편(C안) — 공용 장부표·세그먼트 탭·상태 배지·고정폭 금액, 화면 밀도 축소. 성능 — 앱 장부 저장이 서버 응답을 기다리지 않도록 개선."
+    "versionCode": 10061,
+    "versionName": "0.8.22-apollo",
+    "apkUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/v0.8.22/nongjangi-v0.8.22-apollo.apk",
+    "notes": "보고서 6개 탭 신설(경영요약·매출·도정·건조출하·농가채권·손익계산서) + 메신저 이미지 첨부 + 도정정산·영수증 개선"
   }
 }
