@@ -1,12 +1,12 @@
 {
-  "versionCode": 59,
-  "versionName": "0.8.20",
+  "versionCode": 60,
+  "versionName": "0.8.21",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "현물차용 수량 kg 통일 + 비고 규격·포수(엑셀 양식)",
+  "notes": "UI 상용화 개편(C안) — 공용 장부표·세그먼트 탭·상태 배지·고정폭 금액, 화면 밀도 축소. 성능 — 앱 장부 저장이 서버 응답을 기다리지 않도록 개선.",
   "apollo": {
-    "versionCode": 10059,
-    "versionName": "0.8.20-apollo",
+    "versionCode": 10060,
+    "versionName": "0.8.21-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "현물차용 수량 kg 통일 + 비고 규격·포수(엑셀 양식)"
+    "notes": "UI 상용화 개편(C안) — 공용 장부표·세그먼트 탭·상태 배지·고정폭 금액, 화면 밀도 축소. 성능 — 앱 장부 저장이 서버 응답을 기다리지 않도록 개선."
   }
 }
