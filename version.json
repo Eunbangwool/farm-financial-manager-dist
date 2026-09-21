@@ -1,12 +1,12 @@
 {
-  "versionCode": 56,
-  "versionName": "0.8.17",
+  "versionCode": 57,
+  "versionName": "0.8.18",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "기계관리에 농식이 기능 이식 — 소모품 관리·교체알림, 가동시간·정비주기 템플릿(트랙터/콤바인/이앙기/지게차), 일상점검 체크리스트",
+  "notes": "기계관리에 매뉴얼 백과 추가 — 농기계 트러블슈팅·정기점검·급유·퓨즈·제원·부품(쿠보타 이앙기/트랙터, 콤바인 등)",
   "apollo": {
-    "versionCode": 10056,
-    "versionName": "0.8.17-apollo",
+    "versionCode": 10057,
+    "versionName": "0.8.18-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "기계관리에 농식이 기능 이식 — 소모품 관리·교체알림, 가동시간·정비주기 템플릿(트랙터/콤바인/이앙기/지게차), 일상점검 체크리스트"
+    "notes": "기계관리에 매뉴얼 백과 추가 — 농기계 트러블슈팅·정기점검·급유·퓨즈·제원·부품(쿠보타 이앙기/트랙터, 콤바인 등)"
   }
 }
