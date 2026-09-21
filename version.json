@@ -1,12 +1,12 @@
 {
   "versionCode": 61,
   "versionName": "0.8.22",
-  "apkUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/v0.8.22/nongjangi-v0.8.22.apk",
+  "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
   "notes": "보고서 6개 탭 신설(경영요약·매출·도정·건조출하·농가채권·손익계산서) + 메신저 이미지 첨부 + 도정정산·영수증 개선",
   "apollo": {
     "versionCode": 10061,
     "versionName": "0.8.22-apollo",
-    "apkUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/v0.8.22/nongjangi-v0.8.22-apollo.apk",
+    "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
     "notes": "보고서 6개 탭 신설(경영요약·매출·도정·건조출하·농가채권·손익계산서) + 메신저 이미지 첨부 + 도정정산·영수증 개선"
   }
 }
