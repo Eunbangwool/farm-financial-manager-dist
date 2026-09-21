@@ -1,12 +1,12 @@
 {
-  "versionCode": 55,
-  "versionName": "0.8.16",
+  "versionCode": 56,
+  "versionName": "0.8.17",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "2024년 이하 도정 기록 정산완료 처리(정산 대기 목록에서 제외) + 도정 정산 완료 플래그",
+  "notes": "기계관리에 농식이 기능 이식 — 소모품 관리·교체알림, 가동시간·정비주기 템플릿(트랙터/콤바인/이앙기/지게차), 일상점검 체크리스트",
   "apollo": {
-    "versionCode": 10055,
-    "versionName": "0.8.16-apollo",
+    "versionCode": 10056,
+    "versionName": "0.8.17-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "2024년 이하 도정 기록 정산완료 처리(정산 대기 목록에서 제외) + 도정 정산 완료 플래그"
+    "notes": "기계관리에 농식이 기능 이식 — 소모품 관리·교체알림, 가동시간·정비주기 템플릿(트랙터/콤바인/이앙기/지게차), 일상점검 체크리스트"
   }
 }
