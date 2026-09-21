@@ -1,12 +1,12 @@
 {
-  "versionCode": 58,
-  "versionName": "0.8.19",
+  "versionCode": 59,
+  "versionName": "0.8.20",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "차용 서명 표시(웹)·서명 잘림(앱)·도정정산 수동추가·현물차용 포 수량",
+  "notes": "현물차용 수량 kg 통일 + 비고 규격·포수(엑셀 양식)",
   "apollo": {
-    "versionCode": 10058,
-    "versionName": "0.8.19-apollo",
+    "versionCode": 10059,
+    "versionName": "0.8.20-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "차용 서명 표시(웹)·서명 잘림(앱)·도정정산 수동추가·현물차용 포 수량"
+    "notes": "현물차용 수량 kg 통일 + 비고 규격·포수(엑셀 양식)"
   }
 }
