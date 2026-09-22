@@ -1,12 +1,12 @@
 {
-  "versionCode": 66,
-  "versionName": "0.8.27",
+  "versionCode": 67,
+  "versionName": "0.8.28",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "멤버 DM·그룹 대화방(카톡형) + 파일 첨부 100MB",
+  "notes": "도정 정산 저장 시 영수증 인쇄까지 한 번에(「저장 후 인쇄」), 웹 도정 정산 목록 정산 버튼 상시 노출, 메신저 대화방 권한 수정, 카톡봇 업무방 필터 복구",
   "apollo": {
-    "versionCode": 10066,
-    "versionName": "0.8.27-apollo",
+    "versionCode": 10067,
+    "versionName": "0.8.28-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "멤버 DM·그룹 대화방(카톡형) + 파일 첨부 100MB"
+    "notes": "도정 정산 저장 시 영수증 인쇄까지 한 번에(「저장 후 인쇄」), 웹 도정 정산 목록 정산 버튼 상시 노출, 메신저 대화방 권한 수정, 카톡봇 업무방 필터 복구"
   }
 }
