@@ -1,12 +1,12 @@
 {
-  "versionCode": 68,
-  "versionName": "0.8.29",
+  "versionCode": 69,
+  "versionName": "0.8.30",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "메신저 새 메시지 푸시 알림 추가 · 사진 첨부 속도 개선",
+  "notes": "무인 업데이트 설치 후 앱 자동 재실행(키오스크/device-owner)",
   "apollo": {
-    "versionCode": 10068,
-    "versionName": "0.8.29-apollo",
+    "versionCode": 10069,
+    "versionName": "0.8.30-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "메신저 새 메시지 푸시 알림 추가 · 사진 첨부 속도 개선"
+    "notes": "무인 업데이트 설치 후 앱 자동 재실행(키오스크/device-owner)"
   }
 }
