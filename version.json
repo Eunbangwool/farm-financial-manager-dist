@@ -1,12 +1,12 @@
 {
-  "versionCode": 63,
-  "versionName": "0.8.24",
+  "versionCode": 64,
+  "versionName": "0.8.25",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 입력칸(도정수수료·추가삯·단가) 가운데 정렬·글자 확대, 도정장부·거래처매출 화면 정지 수정, 보고서 기간 비교 수정, 녹색 테마",
+  "notes": "메신저 파일 첨부(문서/PDF 등) 추가 + 사진 첨부 지연 개선",
   "apollo": {
-    "versionCode": 10063,
-    "versionName": "0.8.24-apollo",
+    "versionCode": 10064,
+    "versionName": "0.8.25-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "도정 정산 입력칸(도정수수료·추가삯·단가) 가운데 정렬·글자 확대, 도정장부·거래처매출 화면 정지 수정, 보고서 기간 비교 수정, 녹색 테마"
+    "notes": "메신저 파일 첨부(문서/PDF 등) 추가 + 사진 첨부 지연 개선"
   }
 }
