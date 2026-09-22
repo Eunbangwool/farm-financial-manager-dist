@@ -1,12 +1,12 @@
 {
-  "versionCode": 65,
-  "versionName": "0.8.26",
+  "versionCode": 66,
+  "versionName": "0.8.27",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "메신저 멤버 DM·그룹 대화방, 파일 첨부 100MB, 인앱 업데이트 안정화(다운로드 검증으로 '패키지 충돌' 방지), 웹 읽기량 절감, 테마 대비 강화",
+  "notes": "멤버 DM·그룹 대화방(카톡형) + 파일 첨부 100MB",
   "apollo": {
-    "versionCode": 10065,
-    "versionName": "0.8.26-apollo",
+    "versionCode": 10066,
+    "versionName": "0.8.27-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "메신저 멤버 DM·그룹 대화방, 파일 첨부 100MB, 인앱 업데이트 안정화(다운로드 검증으로 '패키지 충돌' 방지), 웹 읽기량 절감, 테마 대비 강화"
+    "notes": "멤버 DM·그룹 대화방(카톡형) + 파일 첨부 100MB"
   }
 }
