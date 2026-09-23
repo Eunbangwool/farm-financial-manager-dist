@@ -1,12 +1,12 @@
 {
-  "versionCode": 71,
-  "versionName": "0.8.32",
+  "versionCode": 72,
+  "versionName": "0.8.33",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "멤버 권한 앱·웹 규칙 통일 · 메신저 첨부 권한 오류 수정",
+  "notes": "정산 배지 오표시 수정 · 택배고객 중복 방지 · 거래명세표 기간지표(앱) · 화면 권한 재검사 · 편집자 단일화",
   "apollo": {
-    "versionCode": 10071,
-    "versionName": "0.8.32-apollo",
+    "versionCode": 10072,
+    "versionName": "0.8.33-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "멤버 권한 앱·웹 규칙 통일 · 메신저 첨부 권한 오류 수정"
+    "notes": "정산 배지 오표시 수정 · 택배고객 중복 방지 · 거래명세표 기간지표(앱) · 화면 권한 재검사 · 편집자 단일화"
   }
 }
