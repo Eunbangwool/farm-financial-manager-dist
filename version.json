@@ -1,12 +1,12 @@
 {
-  "versionCode": 69,
-  "versionName": "0.8.30",
+  "versionCode": 70,
+  "versionName": "0.8.31",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "무인 업데이트 설치 후 앱 자동 재실행(키오스크/device-owner)",
+  "notes": "삭제 데이터 30일 보관(휴지통) — 복원·자동 만료",
   "apollo": {
-    "versionCode": 10069,
-    "versionName": "0.8.30-apollo",
+    "versionCode": 10070,
+    "versionName": "0.8.31-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "무인 업데이트 설치 후 앱 자동 재실행(키오스크/device-owner)"
+    "notes": "삭제 데이터 30일 보관(휴지통) — 복원·자동 만료"
   }
 }
