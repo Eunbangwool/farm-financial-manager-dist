@@ -1,12 +1,12 @@
 {
-  "versionCode": 70,
-  "versionName": "0.8.31",
+  "versionCode": 71,
+  "versionName": "0.8.32",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "삭제 데이터 30일 보관(휴지통) — 복원·자동 만료",
+  "notes": "멤버 권한 앱·웹 규칙 통일 · 메신저 첨부 권한 오류 수정",
   "apollo": {
-    "versionCode": 10070,
-    "versionName": "0.8.31-apollo",
+    "versionCode": 10071,
+    "versionName": "0.8.32-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "삭제 데이터 30일 보관(휴지통) — 복원·자동 만료"
+    "notes": "멤버 권한 앱·웹 규칙 통일 · 메신저 첨부 권한 오류 수정"
   }
 }
