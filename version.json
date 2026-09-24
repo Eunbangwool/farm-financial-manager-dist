@@ -1,12 +1,12 @@
 {
-  "versionCode": 72,
-  "versionName": "0.8.33",
+  "versionCode": 73,
+  "versionName": "0.8.34",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "정산 배지 오표시 수정 · 택배고객 중복 방지 · 거래명세표 기간지표(앱) · 화면 권한 재검사 · 편집자 단일화",
+  "notes": "차용장부",
   "apollo": {
-    "versionCode": 10072,
-    "versionName": "0.8.33-apollo",
+    "versionCode": 10073,
+    "versionName": "0.8.34-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "정산 배지 오표시 수정 · 택배고객 중복 방지 · 거래명세표 기간지표(앱) · 화면 권한 재검사 · 편집자 단일화"
+    "notes": "차용장부"
   }
 }
