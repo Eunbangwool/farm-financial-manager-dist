@@ -1,12 +1,12 @@
 {
-  "versionCode": 75,
-  "versionName": "0.8.36",
+  "versionCode": 76,
+  "versionName": "0.8.37",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "차용",
+  "notes": "차용장부 개인차용 총액 상시 분할 패널",
   "apollo": {
-    "versionCode": 10075,
-    "versionName": "0.8.36-apollo",
+    "versionCode": 10076,
+    "versionName": "0.8.37-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "차용"
+    "notes": "차용장부 개인차용 총액 상시 분할 패널"
   }
 }
