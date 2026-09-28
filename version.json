@@ -1,12 +1,12 @@
 {
-  "versionCode": 78,
-  "versionName": "0.8.39",
+  "versionCode": 79,
+  "versionName": "0.8.40",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "메신저 사진 다운로드 + 사진 묶어보내기(최대 100장, 전체 일괄 저장), 포스기 모드",
+  "notes": "메신저 첨부 용량 자동 정리(4.5GB 초과·2년 경과 시 오래된 첨부부터, 글은 유지)",
   "apollo": {
-    "versionCode": 10078,
-    "versionName": "0.8.39-apollo",
+    "versionCode": 10079,
+    "versionName": "0.8.40-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "메신저 사진 다운로드 + 사진 묶어보내기(최대 100장, 전체 일괄 저장), 포스기 모드"
+    "notes": "메신저 첨부 용량 자동 정리(4.5GB 초과·2년 경과 시 오래된 첨부부터, 글은 유지)"
   }
 }
