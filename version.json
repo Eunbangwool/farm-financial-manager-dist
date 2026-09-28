@@ -1,12 +1,12 @@
 {
-  "versionCode": 80,
-  "versionName": "0.8.41",
+  "versionCode": 81,
+  "versionName": "0.8.42",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "창구 태블릿 매일 밤 11시30분 자동 전원 끄기, 부팅 직후 날짜가 2022-12-28로 표시되던 문제 수정",
+  "notes": "창구 태블릿 밤 11시30분 자동 전원 끄기 대상 판정 수정",
   "apollo": {
-    "versionCode": 10080,
-    "versionName": "0.8.41-apollo",
+    "versionCode": 10081,
+    "versionName": "0.8.42-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "창구 태블릿 매일 밤 11시30분 자동 전원 끄기, 부팅 직후 날짜가 2022-12-28로 표시되던 문제 수정"
+    "notes": "창구 태블릿 밤 11시30분 자동 전원 끄기 대상 판정 수정"
   }
 }
