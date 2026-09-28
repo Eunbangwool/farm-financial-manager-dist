@@ -1,12 +1,12 @@
 {
-  "versionCode": 79,
-  "versionName": "0.8.40",
+  "versionCode": 80,
+  "versionName": "0.8.41",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "메신저 첨부 용량 자동 정리(4.5GB 초과·2년 경과 시 오래된 첨부부터, 글은 유지)",
+  "notes": "창구 태블릿 매일 밤 11시30분 자동 전원 끄기, 부팅 직후 날짜가 2022-12-28로 표시되던 문제 수정",
   "apollo": {
-    "versionCode": 10079,
-    "versionName": "0.8.40-apollo",
+    "versionCode": 10080,
+    "versionName": "0.8.41-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "메신저 첨부 용량 자동 정리(4.5GB 초과·2년 경과 시 오래된 첨부부터, 글은 유지)"
+    "notes": "창구 태블릿 매일 밤 11시30분 자동 전원 끄기, 부팅 직후 날짜가 2022-12-28로 표시되던 문제 수정"
   }
 }
