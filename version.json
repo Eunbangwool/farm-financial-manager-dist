@@ -1,12 +1,12 @@
 {
-  "versionCode": 81,
-  "versionName": "0.8.42",
+  "versionCode": 82,
+  "versionName": "0.8.43",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "창구 태블릿 밤 11시30분 자동 전원 끄기 대상 판정 수정",
+  "notes": "메신저 사진 장당 1MB 이하 자동 압축(파일 첨부 사진 포함), 앱 세로 사진 회전 바로잡기",
   "apollo": {
-    "versionCode": 10081,
-    "versionName": "0.8.42-apollo",
+    "versionCode": 10082,
+    "versionName": "0.8.43-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "창구 태블릿 밤 11시30분 자동 전원 끄기 대상 판정 수정"
+    "notes": "메신저 사진 장당 1MB 이하 자동 압축(파일 첨부 사진 포함), 앱 세로 사진 회전 바로잡기"
   }
 }
