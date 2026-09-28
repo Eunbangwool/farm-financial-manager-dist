@@ -1,12 +1,12 @@
 {
-  "versionCode": 83,
-  "versionName": "0.8.44",
+  "versionCode": 84,
+  "versionName": "0.8.45",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정배출에서 양식보관 입력 → 차용장부에 −kg 자동 기록, 개인차용 총액에 현물 전체 합계(상계)",
+  "notes": "포스 화면 상용 수준 개선(상품 타일·주문 패널·결제창·넘버패드·상단바) + NICE 카드단말기 연동 기반(신NICE POS 전문)",
   "apollo": {
-    "versionCode": 10083,
-    "versionName": "0.8.44-apollo",
+    "versionCode": 10084,
+    "versionName": "0.8.45-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "도정배출에서 양식보관 입력 → 차용장부에 −kg 자동 기록, 개인차용 총액에 현물 전체 합계(상계)"
+    "notes": "포스 화면 상용 수준 개선(상품 타일·주문 패널·결제창·넘버패드·상단바) + NICE 카드단말기 연동 기반(신NICE POS 전문)"
   }
 }
