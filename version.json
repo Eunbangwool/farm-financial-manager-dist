@@ -8,5 +8,11 @@
     "versionName": "0.8.45-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
     "notes": "포스 화면 상용 수준 개선(상품 타일·주문 패널·결제창·넘버패드·상단바) + NICE 카드단말기 연동 기반(신NICE POS 전문)"
+  },
+  "pcpos": {
+    "versionCode": 2,
+    "versionName": "1.1.0",
+    "msiUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/pcpos-1.1.0/NongjangiPos-1.1.0.msi",
+    "notes": "1.1.0: 영수증 출력·매출/정산·반품취소·할인·듀얼 고객화면"
   }
 }
