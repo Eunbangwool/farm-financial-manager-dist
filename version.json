@@ -10,9 +10,9 @@
     "notes": "포스 화면 상용 수준 개선(상품 타일·주문 패널·결제창·넘버패드·상단바) + NICE 카드단말기 연동 기반(신NICE POS 전문)"
   },
   "pcpos": {
-    "versionCode": 5,
-    "versionName": "1.1.3",
-    "msiUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/pcpos-1.1.3/NongjangiPos-1.1.3.msi",
-    "notes": "1.1.3: 업데이트 시 설치 화면 없이 자동 설치 후 다시 켜짐"
+    "versionCode": 6,
+    "versionName": "1.2.0",
+    "msiUrl": "https://github.com/Eunbangwool/farm-financial-manager-dist/releases/download/pcpos-1.2.0/NongjangiPos-1.2.0.msi",
+    "notes": "1.2.0: 현금영수증·마감 정산서 인쇄·복합결제(현금+카드) 추가"
   }
 }
