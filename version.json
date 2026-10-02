@@ -1,12 +1,12 @@
 {
-  "versionCode": 93,
-  "versionName": "0.9.8",
+  "versionCode": 94,
+  "versionName": "0.9.9",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "홈 화면 위젯 「오늘 업무」",
+  "notes": "홈 화면 위젯 「할 일」(투딧 틀) — 새로고침·위젯에서 완료",
   "apollo": {
-    "versionCode": 10093,
-    "versionName": "0.9.8-apollo",
+    "versionCode": 10094,
+    "versionName": "0.9.9-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "홈 화면 위젯 「오늘 업무」"
+    "notes": "홈 화면 위젯 「할 일」(투딧 틀) — 새로고침·위젯에서 완료"
   }
 }
