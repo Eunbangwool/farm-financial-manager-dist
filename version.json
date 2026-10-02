@@ -1,12 +1,12 @@
 {
-  "versionCode": 91,
-  "versionName": "0.9.6",
+  "versionCode": 92,
+  "versionName": "0.9.7",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "새 앱 아이콘(장부 위 새싹)",
+  "notes": "메신저 입력칸에 이미지·파일 붙여넣기",
   "apollo": {
-    "versionCode": 10091,
-    "versionName": "0.9.6-apollo",
+    "versionCode": 10092,
+    "versionName": "0.9.7-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "새 앱 아이콘(장부 위 새싹)"
+    "notes": "메신저 입력칸에 이미지·파일 붙여넣기"
   }
 }
