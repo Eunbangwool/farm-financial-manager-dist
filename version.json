@@ -1,12 +1,12 @@
 {
-  "versionCode": 90,
-  "versionName": "0.9.5",
+  "versionCode": 91,
+  "versionName": "0.9.6",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "알림을 좌우로 밀어 닫기, 업무 달력 오늘 표시 개선",
+  "notes": "새 앱 아이콘(장부 위 새싹)",
   "apollo": {
-    "versionCode": 10090,
-    "versionName": "0.9.5-apollo",
+    "versionCode": 10091,
+    "versionName": "0.9.6-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "알림을 좌우로 밀어 닫기, 업무 달력 오늘 표시 개선"
+    "notes": "새 앱 아이콘(장부 위 새싹)"
   }
 }
