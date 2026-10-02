@@ -1,12 +1,12 @@
 {
-  "versionCode": 88,
-  "versionName": "0.9.3",
+  "versionCode": 89,
+  "versionName": "0.9.4",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "차용 등록 화면 한 장에 모두 보이게 · 서명란 확대",
+  "notes": "차용 등록 서명란을 화면 위끝까지 확대",
   "apollo": {
-    "versionCode": 10088,
-    "versionName": "0.9.3-apollo",
+    "versionCode": 10089,
+    "versionName": "0.9.4-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "차용 등록 화면 한 장에 모두 보이게 · 서명란 확대"
+    "notes": "차용 등록 서명란을 화면 위끝까지 확대"
   }
 }
