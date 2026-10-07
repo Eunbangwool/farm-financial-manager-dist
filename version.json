@@ -1,12 +1,12 @@
 {
-  "versionCode": 97,
-  "versionName": "0.9.12",
+  "versionCode": 98,
+  "versionName": "0.9.13",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "사업장 프린터 직접 인쇄 수정(JPEG 전송·프린터 확인)",
+  "notes": "메신저 메시지 메뉴(복사·공유·삭제)",
   "apollo": {
-    "versionCode": 10097,
-    "versionName": "0.9.12-apollo",
+    "versionCode": 10098,
+    "versionName": "0.9.13-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "사업장 프린터 직접 인쇄 수정(JPEG 전송·프린터 확인)"
+    "notes": "메신저 메시지 메뉴(복사·공유·삭제)"
   }
 }
