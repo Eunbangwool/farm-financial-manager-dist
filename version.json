@@ -1,12 +1,12 @@
 {
-  "versionCode": 98,
-  "versionName": "0.9.13",
+  "versionCode": 99,
+  "versionName": "0.9.14",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "메신저 메시지 메뉴(복사·공유·삭제)",
+  "notes": "배치도 길게 끌어 여러 칸 배치·옮기기·되돌리기, 품종 프리셋",
   "apollo": {
-    "versionCode": 10098,
-    "versionName": "0.9.13-apollo",
+    "versionCode": 10099,
+    "versionName": "0.9.14-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "메신저 메시지 메뉴(복사·공유·삭제)"
+    "notes": "배치도 길게 끌어 여러 칸 배치·옮기기·되돌리기, 품종 프리셋"
   }
 }
