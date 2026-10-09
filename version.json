@@ -1,12 +1,12 @@
 {
-  "versionCode": 101,
-  "versionName": "0.9.16",
+  "versionCode": 102,
+  "versionName": "0.9.17",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "거래처 매출 입력에 과거 거래(품목별 단가) 화면 분할",
+  "notes": "거래처 과거 거래는 가격 확인용(보기만)",
   "apollo": {
-    "versionCode": 10101,
-    "versionName": "0.9.16-apollo",
+    "versionCode": 10102,
+    "versionName": "0.9.17-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "거래처 매출 입력에 과거 거래(품목별 단가) 화면 분할"
+    "notes": "거래처 과거 거래는 가격 확인용(보기만)"
   }
 }
