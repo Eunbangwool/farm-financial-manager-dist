@@ -1,12 +1,12 @@
 {
-  "versionCode": 106,
-  "versionName": "0.9.21",
+  "versionCode": 107,
+  "versionName": "0.9.22",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "새 버전 0.9.21",
+  "notes": "건조벼 배출이 도정 투입 확인 대기로 넘어가지 않던 문제 수정, 도정 투입 저장 시 품종·백수·건조일 누락 및 중복 기록 수정",
   "apollo": {
-    "versionCode": 10106,
-    "versionName": "0.9.21-apollo",
+    "versionCode": 10107,
+    "versionName": "0.9.22-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "새 버전 0.9.21"
+    "notes": "건조벼 배출이 도정 투입 확인 대기로 넘어가지 않던 문제 수정, 도정 투입 저장 시 품종·백수·건조일 누락 및 중복 기록 수정"
   }
 }
