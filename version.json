@@ -1,12 +1,12 @@
 {
-  "versionCode": 110,
-  "versionName": "0.9.25",
+  "versionCode": 111,
+  "versionName": "0.9.26",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "쇼핑몰 주문에 「상품·가격」 추가 — 홈페이지 쌀 품목·중량·포장·가격을 농장이에서 입력(택배비 뺀 가격만 넣으면 택배비 포함 판매가 자동 계산, 저장 전 확인). 로젠 포털에서 직접 등록한 택배도 결제완료 주문에 송장 자동 연결.",
+  "notes": "새 버전 0.9.26",
   "apollo": {
-    "versionCode": 10110,
-    "versionName": "0.9.25-apollo",
+    "versionCode": 10111,
+    "versionName": "0.9.26-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "쇼핑몰 주문에 「상품·가격」 추가 — 홈페이지 쌀 품목·중량·포장·가격을 농장이에서 입력(택배비 뺀 가격만 넣으면 택배비 포함 판매가 자동 계산, 저장 전 확인). 로젠 포털에서 직접 등록한 택배도 결제완료 주문에 송장 자동 연결."
+    "notes": "새 버전 0.9.26"
   }
 }
