@@ -1,12 +1,12 @@
 {
-  "versionCode": 113,
-  "versionName": "0.9.28",
+  "versionCode": 114,
+  "versionName": "0.9.29",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "새 버전 0.9.28",
+  "notes": "새 버전 0.9.29",
   "apollo": {
-    "versionCode": 10113,
-    "versionName": "0.9.28-apollo",
+    "versionCode": 10114,
+    "versionName": "0.9.29-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "새 버전 0.9.28"
+    "notes": "새 버전 0.9.29"
   }
 }
