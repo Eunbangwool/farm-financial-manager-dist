@@ -1,12 +1,12 @@
 {
-  "versionCode": 121,
-  "versionName": "0.9.36",
+  "versionCode": 120,
+  "versionName": "0.9.35",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "쇼핑몰 주문: 로젠 운송장 출력 뒤 송장이 자동으로 안 붙던 문제 수정 — 화면 진입 시 10분 간격으로 다시 확인, 주문 상세 「송장 가져오기」·「새로고침」은 바로 확인.",
+  "notes": "새 버전 0.9.35",
   "apollo": {
-    "versionCode": 10121,
-    "versionName": "0.9.36-apollo",
+    "versionCode": 10120,
+    "versionName": "0.9.35-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "쇼핑몰 주문: 로젠 운송장 출력 뒤 송장이 자동으로 안 붙던 문제 수정 — 화면 진입 시 10분 간격으로 다시 확인, 주문 상세 「송장 가져오기」·「새로고침」은 바로 확인."
+    "notes": "새 버전 0.9.35"
   }
 }
