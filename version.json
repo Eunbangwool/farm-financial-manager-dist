@@ -1,12 +1,12 @@
 {
-  "versionCode": 123,
-  "versionName": "0.9.38",
+  "versionCode": 124,
+  "versionName": "0.9.39",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 영수증: 합계 아래 비고 칸(건조비 비면 「건조비 미정산」 자동). 앱 정산 저장 시 도정 투입 정보 보존. 업무일정 「보류」.",
+  "notes": "도정 정산 비고: 「건조비 미정산」 자동 문구 제거(필요할 때 직접 입력).",
   "apollo": {
-    "versionCode": 10123,
-    "versionName": "0.9.38-apollo",
+    "versionCode": 10124,
+    "versionName": "0.9.39-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "도정 정산 영수증: 합계 아래 비고 칸(건조비 비면 「건조비 미정산」 자동). 앱 정산 저장 시 도정 투입 정보 보존. 업무일정 「보류」."
+    "notes": "도정 정산 비고: 「건조비 미정산」 자동 문구 제거(필요할 때 직접 입력)."
   }
 }
