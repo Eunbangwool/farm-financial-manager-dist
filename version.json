@@ -1,12 +1,12 @@
 {
-  "versionCode": 124,
-  "versionName": "0.9.39",
+  "versionCode": 125,
+  "versionName": "0.9.40",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "도정 정산 비고: 「건조비 미정산」 자동 문구 제거(필요할 때 직접 입력).",
+  "notes": "데이터 사용량 절감: 현황판·도정배출·도정투입·건조벼현황이 필요한 범위만 불러오도록 개선",
   "apollo": {
-    "versionCode": 10124,
-    "versionName": "0.9.39-apollo",
+    "versionCode": 10125,
+    "versionName": "0.9.40-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "도정 정산 비고: 「건조비 미정산」 자동 문구 제거(필요할 때 직접 입력)."
+    "notes": "데이터 사용량 절감: 현황판·도정배출·도정투입·건조벼현황이 필요한 범위만 불러오도록 개선"
   }
 }
