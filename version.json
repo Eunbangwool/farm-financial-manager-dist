@@ -1,12 +1,12 @@
 {
-  "versionCode": 125,
-  "versionName": "0.9.40",
+  "versionCode": 126,
+  "versionName": "0.9.41",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "데이터 사용량 절감: 현황판·도정배출·도정투입·건조벼현황이 필요한 범위만 불러오도록 개선",
+  "notes": "업무 완료 카톡 알림을 짧게: 「[완료] 업무 제목」 한 줄",
   "apollo": {
-    "versionCode": 10125,
-    "versionName": "0.9.40-apollo",
+    "versionCode": 10126,
+    "versionName": "0.9.41-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "데이터 사용량 절감: 현황판·도정배출·도정투입·건조벼현황이 필요한 범위만 불러오도록 개선"
+    "notes": "업무 완료 카톡 알림을 짧게: 「[완료] 업무 제목」 한 줄"
   }
 }
