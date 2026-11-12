@@ -1,12 +1,12 @@
 {
-  "versionCode": 126,
-  "versionName": "0.9.41",
+  "versionCode": 127,
+  "versionName": "0.9.42",
   "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi.apk",
-  "notes": "업무 완료 카톡 알림을 짧게: 「[완료] 업무 제목」 한 줄",
+  "notes": "진단: 데이터 읽기 폭증 시 원인 기기·화면 기록(11-12 읽기 급증 추적).",
   "apollo": {
-    "versionCode": 10126,
-    "versionName": "0.9.41-apollo",
+    "versionCode": 10127,
+    "versionName": "0.9.42-apollo",
     "apkUrl": "https://farm-financial-manager-prod.web.app/nongjangi-apollo.apk",
-    "notes": "업무 완료 카톡 알림을 짧게: 「[완료] 업무 제목」 한 줄"
+    "notes": "진단: 데이터 읽기 폭증 시 원인 기기·화면 기록(11-12 읽기 급증 추적)."
   }
 }
